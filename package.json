@@ -1,0 +1,15 @@
+{
+  "name": "eva",
+  "version": "1.0.0",
+  "description": "by Dmitry Bagatsky",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Dmitry Bagatsky",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.4",
+    "node-telegram-bot-api": "^0.30.0"
+  }
+}
